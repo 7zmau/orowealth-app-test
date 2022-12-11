@@ -56,6 +56,7 @@ const styles = StyleSheet.create({
 });
 
 const ProductCard = ({ navigation, product }) => {
+  // Metric component - to show deal metrics on card
   const Metric = (props) => {
     return (
       <View style={styles.section11}>
