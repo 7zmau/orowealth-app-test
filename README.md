@@ -8,22 +8,32 @@ Test app for Orowealth app created using React Native
 git clone https://github.com/7zmau/orowealth-app-test.git
 ```
 
-`$ cd orowealth-app-test`
+```sh
+cd orowealth-app-test
+```
 
 ### Installation
 
 # Install the dependencies
 
-`$ npm install`<br>
+```sh
+npm install
+```
 
 # Run the app - on iOS
 
-`$ npm run ios`<br>
+```sh
+npm run ios
+```
 
 # Run the app - on Android
 
-`$ npm run android`<br>
+```sh
+npm run android
+```
 
 # Run the app - using Expo Go app
 
-`$ npm start`<br>
+```sh
+npm start
+```
