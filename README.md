@@ -8,7 +8,7 @@ Test app for Orowealth app created using React Native
 git clone https://github.com/7zmau/orowealth-app-test.git
 ```
 
-`cd orowealth-app-test`
+`$ cd orowealth-app-test`
 
 ### Installation
 
