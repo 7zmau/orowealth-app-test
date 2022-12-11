@@ -1,6 +1,6 @@
 # Orowealth test app
 
-Test app for Orowealth app created using React Native
+Test app for Orowealth created using React Native
 
 ### Getting started
 
